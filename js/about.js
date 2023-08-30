@@ -24,7 +24,7 @@
                                             children: (0, l.jsx)("div", {
                                                 className: "img-in",
                                                 children: (0, l.jsx)("img", {
-                                                    src: "/img/about-me.png",
+                                                    src: "img/about-me.png",
                                                     title: "",
                                                     alt: ""
                                                 })
